@@ -69,3 +69,6 @@ function deeplyNested() {
 }
 
 let filePath = "C:\\Users\\Username\\Documents\\file.txt";
+
+// SonarCloud Analysis: Issues Detected in sonarcloud2.js. Below are the detected issues with details.
+// <ul><li><strong>Line 31:</strong> Object prototype is read only, properties should not be added. <em>(Severity: MAJOR)</em> <span>Location: offsets 22 to 38</span><li><strong>Line 62:</strong> This always evaluates to truthy. Consider refactoring this code. <em>(Severity: MAJOR)</em> <span>Location: offsets 8 to 12</span><li><strong>Line 63:</strong> This always evaluates to truthy. Consider refactoring this code. <em>(Severity: MAJOR)</em> <span>Location: offsets 12 to 16</span><li><strong>Line 64:</strong> This always evaluates to truthy. Consider refactoring this code. <em>(Severity: MAJOR)</em> <span>Location: offsets 16 to 20</span><li><strong>Line 54:</strong> Make sure that using this pseudorandom number generator is safe here. <em>(Severity: MAJOR)</em> <span>Location: offsets 29 to 42</span></ul>
